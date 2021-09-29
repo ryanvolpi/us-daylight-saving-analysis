@@ -12,4 +12,5 @@ The steps are the following:
 4. Calculate sunrise / sunset time for each day for each census block based on centroid
 5. Create plot of sunrise/sunset distributions with and without DST
 
-![image](https://user-images.githubusercontent.com/22488709/135197798-edffced6-98f8-43bf-aa7b-414ed8f5b819.png)
+![image](https://user-images.githubusercontent.com/22488709/135197906-05b8f031-6fd6-462e-ba29-cd714b94d6d1.png)
+
